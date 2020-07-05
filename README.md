@@ -1,11 +1,6 @@
 # 关于
 
-本仓库主要用于社区建设，包含志愿者计划、城市合伙人计划的招募和工作相关内容更新。所有内容都可以通过 [项目看板](https://github.com/cloudnativeto/community/projects) 了解最新进度。
-
-目前项目看板
-
-- [志愿者工作](https://github.com/cloudnativeto/community/projects/2) 主要是维护社区志愿者信息，以及各个细分志愿者列表的具体成员，任何疑问都可以新建一个 Issue，并在 Issue 中 @ 对应的志愿者。
-- [社区建设](https://github.com/cloudnativeto/community/projects/1) 当前社区建设相关事项。
+本仓库主要用于社区建设，包含志愿者计划、城市合伙人计划的招募和工作相关内容更新。所有内容都可以通过 [Cloud Native Community Kanban](https://github.com/orgs/cloudnativeto/projects/1) 了解最新进度。
 
 ## 社区志愿者
 
