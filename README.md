@@ -2,7 +2,15 @@
 
 本仓库主要用于社区建设，包含志愿者计划、城市合伙人计划的招募和工作相关内容更新。所有内容都可以通过 [Cloud Native Community Kanban](https://github.com/orgs/cloudnativeto/projects/1) 了解最新进度。
 
-## 社区志愿者
+## 社区
+
+### 社区会议
+
+云原生社区定期举办社区会议，限定人数 100 人，参加者需要提前在会议文档中登记：
+- 每周六晚 8 点
+- Zoom 视频会议：<https://zoom.com.cn/j/159252230>
+- 主持人：[Jimmy Song](https://github.com/rootsongjc)
+- [会议纪要](https://docs.google.com/document/d/1g8fnoMDkwtdEXlhYaX3eLXVFUdS7LNtTwP9eV6tn3q8/edit?usp=sharing)
 
 ### 内容
 
