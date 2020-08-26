@@ -1,40 +1,55 @@
-# 关于
+# 云原生社区
 
-本仓库主要用于社区建设，包含志愿者计划、城市合伙人计划的招募和工作相关内容更新。所有内容都可以通过 [Cloud Native Community Kanban](https://github.com/orgs/cloudnativeto/projects/1) 了解最新进度。
+本仓库用于存储云原生社区相关资料，关于社区的最新活动可以通过 Issue 或者[项目看板](https://github.com/orgs/cloudnativeto/projects/1)了解。
 
 ## 社区
 
-### 社区会议
+云原生社区包含以下组织：
 
-云原生社区定期举办社区会议，限定人数 100 人，参加者需要提前在会议文档中登记：
-- 每周六晚 8 点
-- Zoom 视频会议：<https://zoom.com.cn/j/159252230>
-- 主持人：[Jimmy Song](https://github.com/rootsongjc)
-- [会议纪要](https://docs.google.com/document/d/1g8fnoMDkwtdEXlhYaX3eLXVFUdS7LNtTwP9eV6tn3q8/edit?usp=sharing)
+- 管理委员会
+- 志愿者
+- 城市站
+- 云原生学院
 
-### 内容
+### 管理委员会
 
-- 收集云原生相关内容（@粟伟）
-- 公众号内容编辑
-- 技术文章翻译
-- 视频（字幕）翻译
-- Twitter 管理（https://twitter.com/CloudNativeTo)
+管理委员会负责云原生社区的日常管理，目前由社区[初创成员](https://cloudnative.to/team)兼任。
 
-### 官网
+### 志愿者
 
-- 官网文章 review 
-- 整理文章发布到官网
-- 官网前端页面制作，比如添加嘉宾页面、志愿者页面、前端优化
+详见[志愿者计划](https://github.com/cloudnativeto/community/issues/65)。
 
-### 活动
+### 城市站
 
-- 活动策划，类似于 PM 的角色，负责一整个活动的生命周期管理
-- 地区 meetup 组织
-- 问卷调查（技术观点）
+云原生社区城市站负责对应城市区域的线下活动组织，详见[城市站计划](https://github.com/cloudnativeto/community/issues/50)。
 
-### 视频
+### 云原生学院
 
-- 视觉图片制作
-- 视频剪辑（B站）
-- 视频剪辑（微信视频号）
-- B 站运营
+云原生学院（Cloud Native Academy）由云原生社区主办，致力于云原生知识的传播和普及。云原生学院将定期举办系列直播活动，为大家带来云原生领域的知识和实践分享。
+
+#### 译文社
+
+- [Kubebuilder 官方文档翻译](https://github.com/cloudnativeto/kubebuilder)
+- [Envoy 官方文档翻译](https://github.com/cloudnativeto/envoy)
+
+#### 兴趣小组（SIG）
+
+兴趣小组为社区根据成员兴趣自发组织的学习小组，目前已成立的兴趣小组有：
+
+- [Kubernetes 源码研习社](https://github.com/cloudnativeto/sig-k8s-source-code)
+
+## 媒体沟通
+
+- 官方网站：https://cloudnative.to
+- Bilibili：https://space.bilibili.com/515485124
+- Twitter：[@CloudNativeTo](https://twitter.com/CloudNativeTo)
+- 微信公众号：CloudNativeTo
+- 社区会议：见[腾讯文档](
+  https://docs.qq.com/doc/DYXNlVlZObGNrQU9M)
+
+## 资料分享
+
+- [Programming Kubernetes 中文版（腾讯内部翻译版）](https://github.com/cloudnativeto/sig-k8s-source-code/issues/12)
+- [云原生幻灯片分享](https://github.com/cloudnativeto/slides)
+
+![云原生社区微信公众号](images/wechat-public-account.jpg)
