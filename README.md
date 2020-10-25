@@ -26,6 +26,8 @@
 
 云原生社区城市站负责对应城市区域的线下活动组织，详见[城市站计划](https://github.com/cloudnativeto/community/issues/50)。
 
+城市站详情见 [https://cloudnative.to/city](https://cloudnative.to/city)。
+
 ### 云原生学院
 
 云原生学院（Cloud Native Academy）由云原生社区主办，致力于云原生知识的传播和普及。云原生学院将定期举办系列直播活动，为大家带来云原生领域的知识和实践分享。
@@ -40,6 +42,9 @@
 兴趣小组为社区根据成员兴趣自发组织的学习小组，目前已成立的兴趣小组有：
 
 - [Kubernetes 源码研习社](https://github.com/cloudnativeto/sig-k8s-source-code)
+- [Envoy SIG](https://github.com/cloudnativeto/sig-envoy)
+- [Istio  SIG](https://github.com/cloudnativeto/sig-istio)
+- [Dapr SIG](https://github.com/cloudnativeto/sig-dapr)
 
 ## 媒体沟通
 
@@ -59,4 +64,4 @@
 - [Programming Kubernetes 中文版（腾讯内部翻译版）](https://github.com/cloudnativeto/sig-k8s-source-code/issues/12)
 - [云原生幻灯片分享](https://github.com/cloudnativeto/slides)
 
-![云原生社区微信公众号](images/wechat-public-account.jpg)
+![云原生社区微信公众号](art/wechat/wechat-bottom-banner.png)
