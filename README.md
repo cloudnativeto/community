@@ -50,8 +50,8 @@
 
 - 官方网站：https://cloudnative.to
 - Bilibili：https://space.bilibili.com/515485124
-- Twitter：[@CloudNativeTo](https://twitter.com/CloudNativeTo)
-- 微信公众号：CloudNativeTo
+- Twitter：[@CloudNativeTo](https://twitter.com/CloudNativeCN)
+- 微信公众号：CloudNativeCN
 - 社区会议：见[腾讯文档](https://docs.qq.com/doc/DYXNlVlZObGNrQU9M)
 
 ## 社区服务
