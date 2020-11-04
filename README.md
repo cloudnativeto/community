@@ -52,8 +52,7 @@
 - Bilibili：https://space.bilibili.com/515485124
 - Twitter：[@CloudNativeTo](https://twitter.com/CloudNativeTo)
 - 微信公众号：CloudNativeTo
-- 社区会议：见[腾讯文档](
-  https://docs.qq.com/doc/DYXNlVlZObGNrQU9M)
+- 社区会议：见[腾讯文档](https://docs.qq.com/doc/DYXNlVlZObGNrQU9M)
 
 ## 社区服务
 
