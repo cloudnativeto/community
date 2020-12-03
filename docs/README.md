@@ -11,8 +11,8 @@ description: 中立的云原生终端用户社区，致力于推广云原生技�
 云原生社区包含以下组织：
 
 * 管理委员会
-* WG（工作组）
 * SIG（特别兴趣小组）
+* WG（工作组）
 * 城市站
 * 云原生学院
 
@@ -38,6 +38,14 @@ description: 中立的云原生终端用户社区，致力于推广云原生技�
 * [Dapr SIG](https://i.cloudnative.to/dapr/)
 * [OAM SIG](https://i.cloudnative.to/oam/)
 * [小工具 SIG](https://i.cloudnative.to/toolkits/)
+
+#### 工作组（WG）
+
+工作组基于一些特定的事务而创建，目前已成立的工作组有：
+
+- 官网：负责社区的官网建设
+- 自动化：负责 GitHub 自动化相关建设
+- 云原生学院：云原生学院直播
 
 ### 媒体沟通
 
