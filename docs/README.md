@@ -34,10 +34,11 @@ description: 中立的云原生终端用户社区，致力于推广云原生技�
 
 * [Kubernetes SIG](https://i.cloudnative.to/kubernetes/)
 * [Envoy SIG](https://i.cloudnative.to/envoy/)
-* [Istio  SIG](https://i.cloudnative.to/istio/)
+* [Istio SIG](https://i.cloudnative.to/istio/)
 * [Dapr SIG](https://i.cloudnative.to/dapr/)
 * [OAM SIG](https://i.cloudnative.to/oam/)
 * [小工具 SIG](https://i.cloudnative.to/toolkits/)
+* [稳定性 SIG](https://i.cloudnative.to/stability/)
 
 #### 工作组（WG）
 
