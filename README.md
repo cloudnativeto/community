@@ -6,4 +6,5 @@
 
 - 社区 logo 及城市站 logo：见 [art/logo](./art/logo) 目录
 - 微信公众号资料：见 [art/wechat](./art/wechat) 目录
+- 社区证书：见 [certificate](./certificate) 目录
 
