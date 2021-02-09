@@ -4,8 +4,8 @@
 
 （排名不分先后）
 
-| 编号                       |  姓名  |
-| :------------------------- | :----: |
+| 编号                                                                                                                     |  姓名  |
+| :----------------------------------------------------------------------------------------------------------------------- | :----: |
 | [C20200001](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200001.png) | 许振文 |
 | [C20200002](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200002.png) | 张晓辉 |
 | [C20200003](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200003.png) | 刘金欣 |
@@ -38,3 +38,4 @@
 | [C20200030](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200030.png) | 丁晓华 |
 | [C20200031](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200031.png) | 王博峰 |
 | [C20200032](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200032.png) | 康志华 |
+| [C20200033](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200033.png) |  张浩  |
