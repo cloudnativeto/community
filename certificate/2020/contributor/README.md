@@ -31,7 +31,6 @@
 | [C20200023](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200023.png) |  王冬  |
 | [C20200024](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200024.png) | 赵卫国 |
 | [C20200025](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200025.png) | 王文虎 |
-| [C20200026](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200026.png) | 赵卫国 |
 | [C20200027](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200027.png) | 金润森 |
 | [C20200028](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200028.png) | 梁远鹏 |
 | [C20200029](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200029.png) |  刘娟  |
