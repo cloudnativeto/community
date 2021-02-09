@@ -6,7 +6,7 @@
 
 | 编号                       |  姓名  |
 | :------------------------- | :----: |
-| [S20200001](S20200001.png) |  厉辉  |
-| [S20200002](S20200002.png) |  张慧  |
-| [S20200003](S20200003.png) | 杨鼎瑞 |
-| [S20200004](S20200004.png) |  陈晨  |
+| [S20200001](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/sig-owner/S20200001.png) |  厉辉  |
+| [S20200002](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/sig-owner/S20200002.png) |  张慧  |
+| [S20200003](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/sig-owner/S20200003.png) | 杨鼎瑞 |
+| [S20200004](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/sig-owner/S20200004.png) |  陈晨  |
