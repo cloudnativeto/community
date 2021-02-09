@@ -37,3 +37,4 @@
 | [C20200029](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200029.png) |  刘娟  |
 | [C20200030](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200030.png) | 丁晓华 |
 | [C20200031](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200031.png) | 王博峰 |
+| [C20200032](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200032.png) | 康志华 |
