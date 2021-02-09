@@ -39,3 +39,4 @@
 | [C20200031](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200031.png) | 王博峰 |
 | [C20200032](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200032.png) | 康志华 |
 | [C20200033](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200033.png) |  张浩  |
+| [C20200034](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200034.png) | 曾朝俊 |
