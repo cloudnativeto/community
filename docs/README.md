@@ -39,6 +39,8 @@ description: 中立的云原生终端用户社区，致力于推广云原生技�
 * [OAM SIG](https://i.cloudnative.to/oam/)
 * [小工具 SIG](https://i.cloudnative.to/toolkits/)
 * [稳定性 SIG](https://i.cloudnative.to/stability/)
+* [可观察性 SIG](https://i.cloudnative.to/observability/)
+* [边缘计算 SIG](https://i.cloudnative.to/edge/)
 
 #### 工作组（WG）
 
