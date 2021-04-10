@@ -1,6 +1,7 @@
 # Table of contents
 
 * [云原生社区](README.md)
+* [兴趣小组（SIG）](sig.md)
 * [社区证书](../certificate/README.md)
   * 2020 年度
     * [优秀讲师](../certificate/2020/lecturer/README.md)
