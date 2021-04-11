@@ -28,22 +28,6 @@ description: 中立的云原生终端用户社区，致力于推广云原生技�
 
 [云原生学院](https://i.cloudnative.to/academy/)（Cloud Native Academy）由云原生社区主办，致力于云原生知识的传播和普及。云原生学院在 [Bilibili](https://space.bilibili.com/515485124) 定期举办系列直播分享，为大家带来云原生领域的知识和实践分享。
 
-#### 兴趣小组（SIG）
-
-兴趣小组为社区根据成员兴趣自发组织的学习小组，目前已成立的兴趣小组有：
-
-* [Kubernetes SIG](https://i.cloudnative.to/kubernetes/)
-* [Envoy SIG](https://i.cloudnative.to/envoy/)
-* [Istio SIG](https://i.cloudnative.to/istio/)
-* [Dapr SIG](https://i.cloudnative.to/dapr/)
-* [OAM SIG](https://i.cloudnative.to/oam/)
-* [小工具 SIG](https://i.cloudnative.to/toolkits/)
-* [稳定性 SIG](https://i.cloudnative.to/stability/)
-* [可观察性 SIG](https://i.cloudnative.to/observability/)
-* [边缘计算 SIG](https://i.cloudnative.to/edge/)
-* [机器学习 SIG](https://i.cloudnative.to/machine-learning/)
-* 持续交付 SIG
-
 #### 工作组（WG）
 
 工作组基于一些特定的事务而创建，目前已成立的工作组有：
