@@ -5,7 +5,7 @@
   * [SIG 管理规范](sig/charter.md)
 * [城市站](city/README.md)
   * [城市站管理规范](city/charter.md)
-  * [城市站 meetup 规范](city/meetup-charter.md)
+  * [城市站 meetup 指南](city/meetup-guide.md)
 * [社区证书](../certificate/README.md)
   * 2020 年度
     * [优秀讲师](../certificate/2020/lecturer/README.md)
