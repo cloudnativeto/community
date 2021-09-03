@@ -1,4 +1,4 @@
-BOOK_NAME := sig-istio
+BOOK_NAME := community
 BOOK_OUTPUT := _book
 image := jimmysong/gitbook-builder:2019-07-31
 #docker := docker run -t -i --sig-proxy=true --rm -v $(shell pwd):/gitbook -w /gitbook -p 4000:4000 $(image)
