@@ -10,7 +10,7 @@
 * [小工具 SIG（筹）](https://i.cloudnative.to/toolkits/)
 * [稳定性 SIG](https://i.cloudnative.to/stability/)
 * [可观察性 SIG](https://i.cloudnative.to/observability/)
-* [边缘计算 SIG](https://i.cloudnative.to/edge/)
+* [边缘计算 SIG](https://cloudnative.to/sig-edge/)
 * [机器学习 SIG](https://i.cloudnative.to/machine-learning/)
 * [持续交付 SIG](https://i.cloudnative.to/cd/)
 
