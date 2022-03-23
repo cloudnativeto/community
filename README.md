@@ -22,7 +22,7 @@
 
 ### 云原生学院
 
-[云原生学院](https://i.cloudnative.to/academy/)（Cloud Native Academy）由云原生社区主办，致力于云原生知识的传播和普及。云原生学院在 [Bilibili](https://space.bilibili.com/515485124) 定期举办系列直播分享，为大家带来云原生领域的知识和实践分享。
+[云原生学院](https://cloudnative.to/academy/)（Cloud Native Academy）由云原生社区主办，致力于云原生知识的传播和普及。云原生学院在 [Bilibili](https://space.bilibili.com/515485124) 定期举办系列直播分享，为大家带来云原生领域的知识和实践分享。
 
 #### 工作组（WG）
 
